@@ -1,0 +1,10 @@
+{
+  "PowerLineFrequency": 60,
+  "TaskName": "sleep",
+  "EEGChannelCount": 3,
+  "EEGReference": "common",
+  "RecordingType": "continuous",
+  "RecordingDuration": 31290.004,
+  "SamplingFrequency": 500,
+  "SoftwareFilters": "n/a"
+}
